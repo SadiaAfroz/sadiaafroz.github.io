@@ -1,0 +1,114 @@
+[
+  {
+    "id": "P14",
+    "title": "The Fast and Spurious: Developer Productivity with GenAI",
+    "details": "Sadia Afroz, Zixuan Feng, Tyler Menezes, Katie Kimura, Bianca Trinkenreich, Igor Steinmacher, Anita Sarma. 34th ACM International Conference on the Foundations of Software Engineering (FSE), pp. 1832–1841, 2026.",
+    "group": "GenAI and Software Development",
+    "url": "https://dl.acm.org/doi/10.1145/3803437.3806710"
+  },
+  {
+    "id": "P12",
+    "title": "From Gains to Strains: Modeling Developer Burnout with GenAI Adoption",
+    "details": "Zixuan Feng,Sadia Afroz, Anita Sarma. IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS), pp. 125–136, 2026.",
+    "group": "GenAI and Software Development",
+    "url": "https://doi.org/10.1145/3786581.3786934"
+  },
+  {
+    "id": "PP1",
+    "title": "“AI Slop is DDoSing Open Source”: Understanding the Impact of AI-Generated Contributions on Open Source Sustainability",
+    "details": "Sadia Afroz, Courtney Miller, Tyler Menezes, Edward Gilmour, Anita Sarma, Zixuan Feng. arXiv preprint, arXiv:2607.04003, 2026.",
+    "group": "GenAI and Software Development",
+    "url": "https://arxiv.org/abs/2607.04003"
+  },
+  {
+    "id": "P13",
+    "title": "“Fast, easy, simple”? SES-diverse transfer students’ sociotechnical experiences registering for classes",
+    "details": "Alec Busteed, Jimena Noa-Guevara, Lais Alexandra Castro, Dahana Moz Ruiz,Sadia Afroz, Iman Mokraoui, Prisha Velhal, Patricia Morreale, Anita Sarma, Margaret Burnett. CHI Conference on Human Factors in Computing Systems, pp. 1–23, 2026.",
+    "group": "Inclusivity and Inclusive Design",
+    "url": "https://doi.org/10.1145/3772318.3791127"
+  },
+  {
+    "id": "P11",
+    "title": "Measuring SES-related traits relating to technology usage: Two validated surveys",
+    "details": "Chimdi Chikezie, Pannapat Chanpaisaeng, Puja Agarwal,Sadia Afroz, Bhavika Madhwani, Rudrajit Choudhuri, Andrew Anderson, Prisha Velhal, Patricia Morreale, Christopher Bogart, Anita Sarma, Margaret Burnett. Empirical Software Engineering, vol. 30, article 159, 2025.",
+    "group": "Inclusivity and Inclusive Design",
+    "url": "https://doi.org/10.1007/s10664-025-10683-5"
+  },
+  {
+    "id": "PP2",
+    "title": "Apply-<x>Mag: One Tool to Support Many Inclusive Design Methods",
+    "details": "Sadia Afroz, Rudrajit Choudhuri, Fatima A. Moussaoui, Amreeta Chatterjee, Margaret Burnett, Anita Sarma. arXiv preprint, arXiv:2609.17948, 2026.",
+    "group": "Inclusivity and Inclusive Design",
+    "url": "https://arxiv.org/abs/2609.17948"
+  },
+  {
+    "id": "P9",
+    "title": "Developer discussion topics on the adoption and barriers of low code software development platforms",
+    "details": "Md Abdullah Al Alamin, Gias Uddin, Sanjay Malakar,Sadia Afroz, Tameem Haider, Anindya Iqbal. Empirical Software Engineering, vol. 28, article 4, 2023.",
+    "group": "Low-code Software Development",
+    "url": "https://doi.org/10.1007/s10664-022-10244-0"
+  },
+  {
+    "id": "P1",
+    "title": "An Empirical Study of Developer Discussions on Low-Code Software Development Challenges",
+    "details": "Md Abdullah Al Alamin, Sanjay Malakar, Gias Uddin,Sadia Afroz, Tameem Haider, Anindya Iqbal. IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), 2021.",
+    "group": "Low-code Software Development",
+    "url": "https://ieeexplore.ieee.org/document/9463132"
+  },
+  {
+    "id": "P10",
+    "title": "Focusing on the Unfocused: Corresponding Perspectives on Connectivity among Small-Scale Non-Profit Organizations Working for Street Children in Bangladesh and Their Donors",
+    "details": "Rudaiba Adnin, Ishita Haque,Sadia Afroz, Alvi Md. Ishmam, Sakil Sarkar, Md. Kafi Khan, Afsana Mimi, Sriram Chellappan, A. B. M. Alim Al Islam. ACM Journal on Computing and Sustainable Societies, vol. 1, no. 1, pp. 1–29, 2023.",
+    "group": "Online Learning and Nonprofit Communities",
+    "url": "https://doi.org/10.1145/3605150"
+  },
+  {
+    "id": "P7",
+    "title": "Investigating Human Factors in Willingness to Donate to the Small-scale Non-profit Organizations in Bangladesh",
+    "details": "Rudaiba Adnin, Ishita Haque,Sadia Afroz, Alvi Md. Ishmam, A. B. M. Alim Al Islam. Companion Publication of the Conference on Computer Supported Cooperative Work and Social Computing (CSCW Companion), pp. 41–44, 2022.",
+    "group": "Online Learning and Nonprofit Communities",
+    "url": "https://doi.org/10.1145/3500868.3559443"
+  },
+  {
+    "id": "P4",
+    "title": "Note: Learn Online: High School Students’ Adoption of Online Learning in Bangladesh during COVID-19 Pandemic",
+    "details": "Rudaiba Adnin,Sadia Afroz, Sadia Sharmin. 5th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS), pp. 603–607, 2022.",
+    "group": "Online Learning and Nonprofit Communities",
+    "url": "https://doi.org/10.1145/3530190.3534839"
+  },
+  {
+    "id": "P3",
+    "title": "Students’ Adoption of Online Platforms for Learning Purposes in Bangladesh",
+    "details": "Rudaiba Adnin,Sadia Afroz, Montaser Majid Taseen, Sadia Sharmin. HCI International 2022 Posters, Communications in Computer and Information Science, vol. 1582, pp. 3–11, 2022.",
+    "group": "Online Learning and Nonprofit Communities",
+    "url": "https://doi.org/10.1007/978-3-031-06391-6_1"
+  },
+  {
+    "id": "P8",
+    "title": "Citadel: An Automated Abuse Detection System to Detect And Prevent Abusive Behaviors over Emails",
+    "details": "Ishita Haque, Rudaiba Adnin,Sadia Afroz, Faria Huq, Sazan Mahbub, Sami Azam, A. B. M. Alim Al Islam. 9th International Conference on Networking, Systems and Security (NSysS), pp. 12–22, 2022.",
+    "group": "Online Safety and Social Contexts",
+    "url": "https://doi.org/10.1145/3569551.3569555"
+  },
+  {
+    "id": "P2",
+    "title": "“A Tale on Abuse and Its Detection over Online Platforms, Especially over Emails”: From the Context of Bangladesh",
+    "details": "Ishita Haque, Rudaiba Adnin,Sadia Afroz, Faria Huq, Sazan Mahbub, A. B. M. Alim Al Islam. 8th International Conference on Networking, Systems and Security (NSysS), pp. 19–28, 2021.",
+    "group": "Online Safety and Social Contexts",
+    "url": "https://doi.org/10.1145/3491371.3491374"
+  },
+  {
+    "id": "P6",
+    "title": "A Hiring Story: Experiences of Employers in Hiring CS Graduates in Software Startups",
+    "details": "Rudaiba Adnin,Sadia Afroz, Muhtasim Ulfat, Anindya Iqbal. Companion Publication of the Conference on Computer Supported Cooperative Work and Social Computing (CSCW Companion), pp. 126–129, 2022.",
+    "group": "Online Safety and Social Contexts",
+    "url": "https://doi.org/10.1145/3500868.3559440"
+  },
+  {
+    "id": "P5",
+    "title": "Revealing Influences of Socioeconomic Factors over Disease Outbreaks",
+    "details": "S. Mahmudul Hasan, Alabi Mehzabin Anisha, Rudaiba Adnin, Ishrat Jahan Eliza, Ishika Tarin,Sadia Afroz, A. B. M. Alim Al Islam. 5th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS), pp. 490–512, 2022.",
+    "group": "Online Safety and Social Contexts",
+    "url": "https://doi.org/10.1145/3530190.3534804"
+  }
+]
